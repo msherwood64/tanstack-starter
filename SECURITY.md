@@ -9,4 +9,4 @@
 
 ## Reporting a Vulnerability
 
-Contact the maintainer (@<YOUR_GITHUB_HANDLE_HERE>)
+Contact the maintainers.
